@@ -13,7 +13,7 @@ This is a simple expense tracker application built using React. The application 
 
 - **React**: Front-end library for building user interfaces.
 - **Context API**: Used for central data management.
-- **CSS**: For styling the components and overall layout.
+- **TailwindCSS**: For styling the components and overall layout.
 
 ## Getting Started
 
